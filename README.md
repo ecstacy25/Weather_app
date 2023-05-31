@@ -8,6 +8,7 @@ Display current weather information including temperature, humidity, wind speed,
 Search functionality to find weather information for any location worldwide.
 Auto-detect user's location and display weather information accordingly.
 Responsive design that works seamlessly on desktop and mobile devices.
+
 TECHNOLOGIES USED
 
 HTML, CSS, and JavaScript
